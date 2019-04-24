@@ -6,3 +6,7 @@
 	path = ext/bank-payment
 	url = git@github.com:brain-tec/bank-payment.git
 	branch = 11.0
+[submodule "ext/bank-statement-reconcile"]
+	path = ext/bank-statement-reconcile
+	url = git@github.com:brain-tec/bank-statement-reconcile.git
+	branch = 11.0
